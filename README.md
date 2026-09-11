@@ -4,17 +4,16 @@
 
 ## 💫 About Me
 
-I'm a final-year Electronics & Telecommunication Engineering student with hands-on experience in **ESP32-based embedded systems and IoT development**.
+I'm a final-year Electronics & Telecommunication Engineering student with hands-on experience in ESP32-based embedded systems and IoT development.
 
-My work mainly focuses on the layer between **hardware and software** — interfacing sensors, developing firmware, implementing communication protocols, managing real-time tasks and transmitting device data to cloud platforms.
+My work mainly focuses on the layer between hardware and software — interfacing sensors, developing firmware, implementing communication protocols, managing real-time tasks and transmitting device data to cloud platforms.
 
 I enjoy understanding how systems work at a low level, debugging problems, and turning hardware concepts into working prototypes.
-
-Currently, I'm focusing on strengthening my skills in **ESP-IDF, FreeRTOS, MQTT, RS485/Modbus and embedded firmware development**.
 
 ---
 
 ### ⚡ Transformer Health Monitoring
+
 IoT-based transformer monitoring system with real-time sensor monitoring and fault alerts.
 
 `ESP32` `Blynk` `GSM` `IoT`
