@@ -14,47 +14,33 @@ Currently, I'm focusing on strengthening my skills in **ESP-IDF, FreeRTOS, MQTT,
 
 ---
 
-### ⚡ Transformer Health Monitoring System
+### ⚡ Transformer Health Monitoring
+IoT-based transformer monitoring system with real-time sensor monitoring and fault alerts.
 
-`ESP32` `IoT` `Blynk` `GSM` `Sensors`
+`ESP32` `Blynk` `GSM` `IoT`
 
-IoT-based system for monitoring transformer health parameters and detecting abnormal operating conditions.
+🔗 [View Project]((https://github.com/PChandoba-10/Smart-Transformer-Health-Monitoring-system))
 
-**Highlights:**
+### 💡 Motion-Based Smart LED Lighting
+Smart lighting system that automatically controls LED brightness using motion and ambient light detection.
 
-* Temperature monitoring
-* Current monitoring
-* Oil-level monitoring
-* Fault detection
-* Relay-based load protection
-* Real-time Blynk dashboard
-* GSM-based alerts
-* Historical data monitoring
+`ESP32` `PIR` `LDR` `PWM` `C++`
 
-🔗 [View Project](#)
+🔗 [View Project](https://github.com/PChandoba-10/Motion-based-smart-LED-lighting-system)
 
----
+### 🔢 Real-Time Object Counter
+Real-time object counting system designed using an ATmega328P microcontroller for accurate object detection and counting.
 
-### 💡 Motion-Based Smart LED Lighting System
+`ATmega328P` `Arduino` `C++` `Sensors`
 
-`ESP32` `C/C++` `PIR` `LDR` `Bluetooth`
+🔗 [View Project](https://github.com/PChandoba-10/Real-Time-Object-Counter-)
 
-Smart lighting system that automatically controls LED brightness based on motion and ambient light conditions.
+### 🌡️ Temperature Controlling Sensor
+Microcontroller-based temperature monitoring system using an LM35 sensor for real-time environmental sensing.
 
-**Highlights:**
+`ATmega328P` `LM35` `Arduino` `C++`
 
-* PIR-based motion detection
-* LDR-based light sensing
-* Automatic brightness control
-* Manual / automatic modes
-* PWM-based LED control
-* Bluetooth configuration
-* Deep-sleep power saving
-* Custom PCB implementation
-
-🔗 [View Project](#)
-
----
+🔗 [View Project](https://github.com/PChandoba-10/Temperature-controlling-sensor)
 
 ## 💻 Tech Stack
 
@@ -81,18 +67,6 @@ Smart lighting system that automatically controls LED brightness based on motion
 ### Development Tools
 
 `VS Code` `PlatformIO` `Keil` `MPLAB` `Git` `GitHub`
-
----
-
-## 📚 DSA & Problem Solving
-
-I also practice **Data Structures and Algorithms** across different coding platforms to strengthen problem-solving and logical thinking.
-
-Topics include:
-
-`Arrays` `Strings` `Linked Lists` `Stacks` `Queues` `Trees` `Graphs` `Recursion` `Sorting` `Searching` `Dynamic Programming`
-
-🔗 [View DSA Repository](#)
 
 ---
 
