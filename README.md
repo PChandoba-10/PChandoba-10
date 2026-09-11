@@ -19,7 +19,7 @@ IoT-based transformer monitoring system with real-time sensor monitoring and fau
 
 `ESP32` `Blynk` `GSM` `IoT`
 
-🔗 [View Project]((https://github.com/PChandoba-10/Smart-Transformer-Health-Monitoring-system))
+🔗 [View Project](https://github.com/PChandoba-10/Smart-Transformer-Health-Monitoring-system)
 
 ### 💡 Motion-Based Smart LED Lighting
 Smart lighting system that automatically controls LED brightness using motion and ambient light detection.
