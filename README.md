@@ -2,7 +2,7 @@
 
 ---
 
-## 💫 About Me
+## 🧑‍💻 About Me
 
 I'm a final-year Electronics & Telecommunication Engineering student with hands-on experience in ESP32-based embedded systems and IoT development.
 
@@ -11,6 +11,7 @@ My work mainly focuses on the layer between hardware and software — interfacin
 I enjoy understanding how systems work at a low level, debugging problems, and turning hardware concepts into working prototypes.
 
 ---
+## 🚀 Projects
 
 ### ⚡ Transformer Health Monitoring
 
@@ -41,7 +42,7 @@ Microcontroller-based temperature monitoring system using an LM35 sensor for rea
 
 🔗 [View Project](https://github.com/PChandoba-10/Temperature-controlling-sensor)
 
-## 💻 Tech Stack
+## 🛠️ Tech Stack
 
 ### Languages
 
@@ -70,7 +71,7 @@ Microcontroller-based temperature monitoring system using an LM35 sensor for rea
 ---
 
 
-## 🎯 Areas of Interest
+## 📌 Areas of Interest
 
 ```text
 Embedded Systems
