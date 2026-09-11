@@ -46,7 +46,7 @@ Microcontroller-based temperature monitoring system using an LM35 sensor for rea
 
 ### Languages
 
-`C` `C++` `Python`
+`C` `C++` `Embedded C`
 
 ### Embedded Systems
 
